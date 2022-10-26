@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janeesh27
+- 👋 Hi, I’m Janeesh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-end Development
 - 💞️ I’m looking to collaborate on React/Next.js 
