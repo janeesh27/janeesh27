@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janeesh
-- 👀 I’m interested in Web Development<>.
+- 👀 I’m interested in Web Development<>
 - 🌱 I’m currently learning Back-end & Shopify Development
 - 💞️ I’m looking to collaborate on React/Next.js 
 - 📫 How to reach me: janeesh.tin@gmail.com
